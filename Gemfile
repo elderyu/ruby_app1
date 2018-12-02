@@ -29,6 +29,8 @@ gem 'jbuilder', '~> 2.5'
 # gem from javascript for messgaes on site
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'rails-ujs', '~> 0.1.0'
+#moze pomoze
+gem 'rails_serve_static_assets'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
